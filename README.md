@@ -12,7 +12,10 @@ Welcome to the **AI Chat Assistant**, your intelligent conversational partner de
 
 This project is a full-stack AI chat assistant built with modern web technologies and large language models. The application provides natural, human-like interactions for users through an intuitive chat interface.
 
-Live Demo: [Insert your deployed link here]
+Live Demo: [https://www.figma.com/proto/uBf7olwdY1kc9kyNqRsVDR/Untitled?node-id=1-247&t=UCW2Tq0hpkDQQfgw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A247&show-proto-sidebar=1]
+
+
+![Image](https://github.com/user-attachments/assets/e6950867-1271-413a-a5af-5d987c2cf81d)
 
 ---
 
@@ -80,7 +83,7 @@ Need help or want to collaborate?
 This project is open source under the MIT License. See `LICENSE` for more info.
 
 
-![Image](https://github.com/user-attachments/assets/e6950867-1271-413a-a5af-5d987c2cf81d)
+
 ![Image](https://github.com/user-attachments/assets/e0ea16dc-e9fe-48bc-87b1-7ef19870f33a)
 ![Image](https://github.com/user-attachments/assets/76a59f7f-e9bb-4cf5-b7d1-743915ad4241)
 
