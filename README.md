@@ -22,34 +22,22 @@ Live Demo: [https://www.figma.com/proto/uBf7olwdY1kc9kyNqRsVDR/Untitled?node-id=
 ## ℹ️ About
 
 The AI Chat Assistant uses NLP (Natural Language Processing) and deep learning to understand user input and generate intelligent responses. It can answer questions, provide recommendations, summarize information, and more.
+![Image](https://github.com/user-attachments/assets/46d66d2d-4208-4117-8434-e3a97e319a8a)
 
-Built with:
-- Frontend: React + Tailwind CSS
-- Backend: Node.js / Express (or Firebase)
-- AI Engine: OpenAI GPT API (or similar LLM)
-- Deployment: Vercel / Netlify / Heroku
 
 ---
 
 ## ✨ Features
 ![Image](https://github.com/user-attachments/assets/befec7cc-a1fc-4a78-a4c3-049ee43817c1)
-- 💬 **Conversational AI** – Natural, real-time conversations
-- 🧠 **Context Awareness** – Maintains context for better interaction
-- 📚 **Knowledge Access** – Pulls from documentation or FAQs
-- 🎨 **Customizable UI** – Light/Dark mode, responsive design
-- 🔒 **Secure API Integration** – Token-based authentication and user privacy
-- 🗂️ **Multilingual Support** – Communicate in various languages
+-  **Continuous Learning** – Continuous learning capability to adapt and improve over time
+-  **Personalized Experience** – Tailored and personalised interactions for a user-friendly experience
+-  **Multi-platform Integration** – Seemlessly integrate with multiple platforms
 
 ---
 
 ## 📚 Resources
 ![Image](https://github.com/user-attachments/assets/90f44135-7b2d-4493-975c-233c0403fe0e)
 
-- [OpenAI API Documentation](https://platform.openai.com/docs)
-- [React Documentation](https://reactjs.org/)
-- [Tailwind CSS Docs](https://tailwindcss.com/docs)
-- [Express.js Docs](https://expressjs.com/)
-- [Firebase Docs (Optional)](https://firebase.google.com/docs)
 
 ---
 
@@ -71,16 +59,10 @@ Built with:
 Need help or want to collaborate?
 ![Image](https://github.com/user-attachments/assets/434e6213-0f94-40d0-b519-14fd42dae74e)
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub Profile]
-- Twitter: [@YourHandle]
+
 
 ---
 
-## 📄 License
-
-This project is open source under the MIT License. See `LICENSE` for more info.
 
 
 
